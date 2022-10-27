@@ -1,1 +1,1 @@
-# navoica
+# navoica exercises
