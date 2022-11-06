@@ -1,0 +1,27 @@
+.opis {
+    font-weight: bold;
+}
+
+.opis.demiglace {
+    color: brown;
+}
+
+.opis.beszamel {
+    color: orange;
+}
+
+.opis.veloute {
+    color: purple;
+}
+
+.jasne li {
+    font-style: italic;
+}
+
+.ciemne li {
+    font-style:oblique
+}
+
+ul.wszystkie > li {
+    border-left: 2px solid red;
+}
