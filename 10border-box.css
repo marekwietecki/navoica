@@ -1,0 +1,26 @@
+html {
+    box-sizing: border-box;
+}
+
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+
+/* Proper code */
+
+.box1 {
+    background-color: lavender;
+
+    width: 400px;
+    height: 100px;
+
+    padding: 50px;
+
+    margin: 10px 10px 30px 10px;
+    border-radius: 10px;
+    padding: 30px 0px 20px 150px;
+    border-top: dotted 10px yellow;
+    border-right: ridge 20px green;
+    border-bottom: dashed 5px red;
+    border-left: outset 20px blue;
+}
