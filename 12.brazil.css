@@ -1,0 +1,30 @@
+.container {
+    padding: 0.5rem;
+    margin: 0.5rem;
+    background: center center url(Flag-Brazil.jpg);
+    border-radius: 10px;
+}
+
+.box-1 {
+    padding: 0.5rem;
+    margin: 0.5rem;
+    background-color: rgb(255,222,0);
+    color: rgb(0,0,120);
+    width: 150px;
+    border-radius: 10px;
+}
+
+.box-2 {
+    padding: 0.5rem;
+    margin: 0.5rem;
+    background-color: rgba(0,0,0,0.2);
+}
+
+.box-3 {
+    padding: 0.5rem;
+    margin: 0.5rem;
+    background-color: rgb(40,40,100);
+    color: #fff;
+    border-radius: 10px;
+    width: 150px
+}
